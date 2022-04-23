@@ -2,6 +2,7 @@
 
 // 	tittle : 'what is the difference between scope snd conetext in OOJS'
 // 	author : 'Smruti ranjan UI Developer'
+	Scope : is Visibility of the Variable
 // };
 
 
